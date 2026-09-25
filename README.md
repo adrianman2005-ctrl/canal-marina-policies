@@ -5,6 +5,8 @@ Public review drafts for **CanalMarinaOdAutomation**, an internal dispatch-order
 - [End-user license agreement](terms.html)
 - [Privacy policy](privacy.html)
 - [Overview](index.html)
+- [Connect or reconnect](connect.html) — administrator-assisted connection requests; does not start OAuth automatically.
+- [Disconnect](disconnect.html) — revocation instructions and support; visiting the page does not change connection state.
 
 Support: admin@canalmarinapanama.com
 
